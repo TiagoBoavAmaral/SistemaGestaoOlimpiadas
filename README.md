@@ -1,6 +1,6 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 
-Projeto 1 da disciplina de Projeto de Software do curso de Engenharia de Software da PUC Minas.
+
 
 ## 1. Descrição do Sistema
 
