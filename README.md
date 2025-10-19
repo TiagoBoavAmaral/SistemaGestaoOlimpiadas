@@ -25,7 +25,7 @@ Conforme solicitado, seguem os diagramas de modelagem do sistema.
 ### Diagrama de Caso de Uso
 *Modele os casos de uso principais, como "Cadastrar Competição", "Inscrever Atleta", "Alocar Local", e "Registrar Resultados". Identifique os atores e as interações principais.*
 
-<img width="500px" height="500px" src="Imagens/caso-de-uso.png"/>
+<img width="500px" height="500px" src="Imagens/casos-de-uso.png"/>
 
 ### Diagrama de Classes e de Pacotes
 *Crie um diagrama de classes que reflita a estrutura do sistema, incluindo classes como Competição, Atleta, Local, Resultado e País. Organize o sistema em pacotes para separar as diferentes responsabilidades.*
