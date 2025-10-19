@@ -23,23 +23,19 @@ Abaixo estão as histórias de usuário que descrevem as funcionalidades do sist
 Conforme solicitado, seguem os diagramas de modelagem do sistema.
 
 ### Diagrama de Caso de Uso
-*Modele os casos de uso principais, como "Cadastrar Competição", "Inscrever Atleta", "Alocar Local", e "Registrar Resultados". Identifique os atores e as interações principais.*
 
 <img width="500px" height="500px" src="Imagens/casos-de-uso.png"/>
 
 ### Diagrama de Classes e de Pacotes
-*Crie um diagrama de classes que reflita a estrutura do sistema, incluindo classes como Competição, Atleta, Local, Resultado e País. Organize o sistema em pacotes para separar as diferentes responsabilidades.*
 
 <img width="500px" height="500px" src="Imagens/diagrama-de-classes-e-pacotes.png"/>
 
 
 ### Diagrama de Componentes
-*Modele os componentes principais do sistema, como Interface de Usuário, Módulo de Inscrições, Módulo de Alocação, e Módulo de Relatórios, mostrando como eles interagem entre si.*
 
 <img width="500px" height="500px" src="Imagens/diagrama-de-componetes.png"/>
 
 ### Diagrama de Implantação
-*Desenvolva um diagrama de implantação que ilustre a arquitetura física do sistema, incluindo servidores, bancos de dados, e dispositivos dos usuários.*
 
 <img width="500px" height="500px" src="Imagens/diagrama-de-implantacao.png"/>
 
