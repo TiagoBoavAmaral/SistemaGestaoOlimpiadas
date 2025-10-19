@@ -1,5 +1,5 @@
 # Sistema de Gestão das Olimpíadas (SGO)
-
+Tiago Boaventura Amaral
 
 
 ## 1. Descrição do Sistema
