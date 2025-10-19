@@ -20,8 +20,6 @@ Abaixo estão as histórias de usuário que descrevem as funcionalidades do sist
 
 ## 3. Diagramas UML
 
-Conforme solicitado, seguem os diagramas de modelagem do sistema.
-
 ### Diagrama de Caso de Uso
 
 <img width="500px" height="500px" src="Imagens/casos-de-uso.png"/>
