@@ -25,7 +25,7 @@ Conforme solicitado, seguem os diagramas de modelagem do sistema.
 ### Diagrama de Caso de Uso
 *Modele os casos de uso principais, como "Cadastrar Competição", "Inscrever Atleta", "Alocar Local", e "Registrar Resultados". Identifique os atores e as interações principais.*
 
-<img width="500px" height="500px" src="imagens/diagrama-de-caso-de-uso.png"/>
+<img width="500px" height="500px" src="Imagens/diagrama-de-caso-de-uso.png"/>
 
 ### Diagrama de Classes e de Pacotes
 *Crie um diagrama de classes que reflita a estrutura do sistema, incluindo classes como Competição, Atleta, Local, Resultado e País. Organize o sistema em pacotes para separar as diferentes responsabilidades.*
@@ -36,12 +36,12 @@ Conforme solicitado, seguem os diagramas de modelagem do sistema.
 ### Diagrama de Componentes
 *Modele os componentes principais do sistema, como Interface de Usuário, Módulo de Inscrições, Módulo de Alocação, e Módulo de Relatórios, mostrando como eles interagem entre si.*
 
-<img width="500px" height="500px" src="imagens/diagrama-de-componentes.png"/>
+<img width="500px" height="500px" src="Imagens/diagrama-de-componentes.png"/>
 
 ### Diagrama de Implantação
 *Desenvolva um diagrama de implantação que ilustre a arquitetura física do sistema, incluindo servidores, bancos de dados, e dispositivos dos usuários.*
 
-<img width="500px" height="500px" src="imagens/diagrama-de-implantação.png"/>
+<img width="500px" height="500px" src="Imagens/diagrama-de-implantacao.png"/>
 
 ## 4. Estrutura do Repositório
 
