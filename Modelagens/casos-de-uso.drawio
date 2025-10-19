@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 OPR/121.0.0.0" version="28.2.7">
+  <diagram name="Página-1" id="gcNsbuUWF9kvICnC2apT">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f_vtuQIE1PpOnyleidew-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-3" value="Público" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-4" value="Sistema de Gestão das Olimpíadas (SGO)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fillStyle=auto;perimeterSpacing=9;rounded=0;shadow=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="290" height="380" as="geometry">
+            <mxRectangle x="220" y="80" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-5" value="Cadastrar Competição" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="f_vtuQIE1PpOnyleidew-4">
+          <mxGeometry y="30" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-6" value="Inscrever Atleta" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=default;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="f_vtuQIE1PpOnyleidew-4">
+          <mxGeometry y="100" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-7" value="Alocar Local" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="f_vtuQIE1PpOnyleidew-4">
+          <mxGeometry y="170" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-8" value="Registrar Resultados" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="f_vtuQIE1PpOnyleidew-4">
+          <mxGeometry y="240" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-9" value="Gerar Relatório de Medalhas" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="f_vtuQIE1PpOnyleidew-4">
+          <mxGeometry y="310" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.045;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-2" target="f_vtuQIE1PpOnyleidew-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.086;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-2" target="f_vtuQIE1PpOnyleidew-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-2" target="f_vtuQIE1PpOnyleidew-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.062;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-2" target="f_vtuQIE1PpOnyleidew-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.034;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-2" target="f_vtuQIE1PpOnyleidew-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_vtuQIE1PpOnyleidew-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_vtuQIE1PpOnyleidew-3" target="f_vtuQIE1PpOnyleidew-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="580" as="sourcePoint" />
+            <mxPoint x="600" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
