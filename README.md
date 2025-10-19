@@ -38,7 +38,3 @@ Conforme solicitado, seguem os diagramas de modelagem do sistema.
 ### Diagrama de Implantação
 
 <img width="500px" height="500px" src="Imagens/diagrama-de-implantacao.png"/>
-
-## 4. Estrutura do Repositório
-
-A estrutura de arquivos deste repositório segue as instruções fornecidas:
