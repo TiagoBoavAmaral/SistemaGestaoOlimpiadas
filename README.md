@@ -30,11 +30,8 @@ Conforme solicitado, seguem os diagramas de modelagem do sistema.
 ### Diagrama de Classes e de Pacotes
 *Crie um diagrama de classes que reflita a estrutura do sistema, incluindo classes como Competição, Atleta, Local, Resultado e País. Organize o sistema em pacotes para separar as diferentes responsabilidades.*
 
-**Diagrama de Classes:**
-<img width="500px" height="500px" src="imagens/diagrama-de-classes.png"/>
+<img width="500px" height="500px" src="imagens/diagrama-de-classes-e-pacotes.png"/>
 
-**Diagrama de Pacotes:**
-<img width="500px" height="500px" src="imagens/diagrama-de-pacotes.png"/>
 
 ### Diagrama de Componentes
 *Modele os componentes principais do sistema, como Interface de Usuário, Módulo de Inscrições, Módulo de Alocação, e Módulo de Relatórios, mostrando como eles interagem entre si.*
